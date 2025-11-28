@@ -4,4 +4,6 @@ SBPL Compiler for macOS sandbox rules
 ```bash
 clang sbpl.c -o sbpl-compiler -lsandbox
 ./sbpl-compiler test.sb myrules.bin
+csrXamfi@MacBook-Air-csrXamfi compiler % ./sbpl-compiler test.sb test.bin
+Successfully compiled /Users/csrXamfi/Desktop/compiler/test.sb -> test.bin (462 bytes)
 ```
