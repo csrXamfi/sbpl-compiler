@@ -8,7 +8,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <mach/mach.h>
-#include <servers/bootstrap.h>
 #include "sandbox.h"
 
 int main(int argc, const char * argv[]) {
